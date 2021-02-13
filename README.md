@@ -29,7 +29,8 @@ Technology used includes Java, JDBC, MySQL and Apache Server.
 * Then you can download and run the client files.
 * Create the users as per needed, conduct sessions and enjoy.
 
-Some images from the project are 
+## Some images from the project are shown below
+
 ![1.png](./images/1.png)
 ![2.png](./images/2.png)
 ![3.png](./images/3.png)
